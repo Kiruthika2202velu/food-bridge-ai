@@ -1,0 +1,6 @@
+{
+  "name": "Food Bridge AI",
+  "description": "Real-Time Food Donation Portal and AI Matching Engine connecting restaurants with surplus food to nearby NGOs, featuring smart routing, shelf-life verification, and live logistics tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
