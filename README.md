@@ -5,7 +5,7 @@
 
 This contains everything you need to run your app locally.
 
-View your project on GitHub: https://github.com/Kiruthika2202velu/food-bridge-ai
+View your app in AI Studio: http://localhost:3000
 
 ## Run Locally
 
